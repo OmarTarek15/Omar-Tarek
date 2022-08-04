@@ -24,8 +24,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?
-username=OmarTarek15&langs_count=8&hide=html,css&layout=compact)](https://github.com/OmarTarek15/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTarek15&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarTarek15&show_icons=true&locale=en" alt="OmarTarek15" /></p>
 
