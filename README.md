@@ -5,13 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yoyobunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoyobunt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yousssef-ashraf-a76633238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousssef-ashraf-a76633238" height="30" width="40" /></a>
-<a href="https://fb.com/100004525787159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100004525787159" height="30" width="40" /></a>
-<a href="https://instagram.com/youssef_ashraf71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef_ashraf71" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/youssef_aziz02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef_aziz02" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yoyobunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yoyobunt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yoyobunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yoyobunt" height="30" width="40" /></a>
+<a href="https://twitter.com/Omarr_348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Omarr_348" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-tarek-a2a1a4235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-tarek-a2a1a4235" height="30" width="40" /></a>
+<a href="https://www.facebook.com/omar.tarek.7127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar.tarek.7127" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omartarek15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omartarek15" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/OTarek15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="OTarek15" height="30" width="40" /></a>
+<a href="https://leetcode.com/omartarek348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omartarek348" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
