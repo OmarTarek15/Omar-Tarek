@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I'm an Undergraduate Student at Faculty of Computers and Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-ashraf71" alt="youssef-ashraf71" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yoyobunt" target="blank"><img src="https://img.shields.io/twitter/follow/yoyobunt?logo=twitter&style=for-the-badge" alt="yoyobunt" /></a> </p>
-
-- 🔭 I’m currently working on **Diary Application**
-
-- 🌱 I’m currently learning **Data Structures & Algortihms**
-
 - 📫 How to reach me **omartarek348@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
