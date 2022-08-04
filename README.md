@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm an Undergraduate Student at Faculty of Engineering at Cairo University</h3>
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">I'm an Undergraduate Student at Faculty of Computers and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algortihms**
 
-- 📫 How to reach me **yossifaziz29@gmail.com**
+- 📫 How to reach me **omartarek348@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
