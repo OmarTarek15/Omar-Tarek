@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Cloud Computing**
 - 📫 How to reach me **omartarek348@gmail.com**
 
-<h3 align="left">Connect me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Omarr_348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Omarr_348" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omar-tarek-a2a1a4235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-tarek-a2a1a4235" height="30" width="40" /></a>
