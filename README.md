@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I'm an Undergraduate Student at Faculty of Computers and Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
 - 📫 How to reach me **omartarek348@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
